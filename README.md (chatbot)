@@ -1,0 +1,14 @@
+# Rule-Based Chatbot 🤖
+
+This is a simple rule-based chatbot built in Python as part of my internship project at CodSoft.
+
+## 💡 Features
+- Greets the user
+- Responds to basic questions (name, purpose, thanks)
+- Tells the current time and date
+- Rule-based logic using regular expressions
+
+## 🚀 How to Run
+
+```bash
+python chatbot.py
