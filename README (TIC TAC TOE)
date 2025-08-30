@@ -1,0 +1,34 @@
+# 🎮 Tic-Tac-Toe AI
+
+This is a simple yet powerful implementation of the classic **Tic-Tac-Toe game**, where you can play against an **unbeatable AI**.  
+The AI uses the **Minimax algorithm** to always make the optimal move, making it a fun way to experience **game theory** and **AI search algorithms** in action.
+
+---
+
+## ✨ Features
+- Play Tic-Tac-Toe against an AI that never loses.
+- Implemented using the **Minimax Algorithm** (with pruning for efficiency).
+- Runs entirely in the **command line** (no extra setup required).
+- Beginner-friendly project to understand **AI in games**.
+
+---
+
+## 🛠️ How It Works
+1. The board is displayed in a 3x3 grid.
+2. You (the human player) choose your move by entering a position.
+3. The AI calculates the **best possible move** using Minimax.
+4. The game continues until someone wins or the board is full.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.x installed on your machine.
+
+### Run the Game
+Clone the repo and run the script:
+```bash
+git clone https://github.com/your-username/Tic-Tac-Toe-AI.git
+cd Tic-Tac-Toe-AI
+python tic_tac_toe_ai.py
